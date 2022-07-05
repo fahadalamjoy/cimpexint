@@ -1,0 +1,9 @@
+@import "~antd/dist/antd.css";
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Da+2&family=Montserrat:wght@500&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif !important;
+}
+.scrool{
+  overflow-y: scroll;
+}
